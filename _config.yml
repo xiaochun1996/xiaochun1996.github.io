@@ -10,7 +10,7 @@ baseurl: ''
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: zh-CN
 
 # Additional parameters for datetime localization, optional. › https://github.com/iamkun/dayjs/tree/dev/src/locale
 prefer_datetime_locale:
@@ -23,7 +23,7 @@ timezone:
 
 title: 菜鸟的编程译话                          # the main title
 
-tagline: 一只菜鸟的编程之路   # it will display as the sub-title
+tagline: 一只菜鸟的编程之路~   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -35,16 +35,16 @@ github:
   username: xiaochun1996             # change to your github username
 
 twitter:
-  username: xiaochun1996            # change to your twitter username
+  username: lxc_github            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: xiaochun
+  name: lxc_github
   email: l1529184451@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/xiaochun1996      # change to your twitter homepage
+    - https://twitter.com/lxc_github      # change to your twitter homepage
     - https://github.com/xiaochun1996       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
